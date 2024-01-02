@@ -1,7 +1,7 @@
 ﻿
 
 // If Else Statement
-// ==, >=, <=, <, >, !=
+// ==, >=, <=, <, >, !=, &&, ||
 
 using System.ComponentModel.Design;
 
